@@ -1,0 +1,6 @@
+{
+  "name": "GEVEN — Gestión de Ventas",
+  "description": "GEVEN — Gestión de Ventas. Descarga las últimas versiones para Windows y Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
